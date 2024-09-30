@@ -1,28 +1,29 @@
 # 안녕하세요! 김개발입니다! 👋
 
-![header](https://img.shields.io/badge/Frontend_Developer-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20React%20%7C%20Vue-blue?style=for-the-badge)
+![header](https://img.shields.io/badge/Backend_Developer-Python%20%7C%20Node.js%20%7C%20Django%20%7C%20Flask%20%7C%20Express-blue?style=for-the-badge)
 
-👨‍💻 **프론트엔드 개발자 | 아름답고 직관적인 웹 경험을 만듭니다**
+👨‍💻 **백엔드 개발자 | 안정적이고 확장 가능한 서버 구축을 지향합니다**
 
 ---
 
 ### 🌟 About Me:
 
-안녕하세요! 저는 **김개발**이라고 합니다. **모던 웹 기술**을 사용해 사용자가 만족하는 **직관적이고 반응형** 웹사이트를 만드는 것을 좋아합니다. **React**와 **Vue.js** 같은 최신 기술을 사용해 **깨끗한 코드**와 **최고의 사용자 경험**을 제공하기 위해 노력하고 있습니다.
+안녕하세요! 저는 **김개발**이라고 합니다. **모던 백엔드 기술**을 사용해 안전하고 확장 가능한 **서버와 API**를 구축하는 것을 좋아합니다. **Node.js**와 **Python (Flask/Django)** 같은 최신 기술을 사용해 **깔끔한 코드**와 **효율적인 데이터 처리**를 목표로 하고 있습니다.
 
 - 🎓 **학력:** 한국대학교에서 소프트웨어학과 전공
-- 💻 **현재 진행 중인 프로젝트:** **React.js**와 **Next.js**를 사용한 개인 포트폴리오 사이트
-- 💡 **학습 중인 기술:** TypeScript, 웹 애니메이션, Web3
+- 💻 **현재 진행 중인 프로젝트:** **Node.js**와 **Flask**를 사용한 RESTful API 서버 구축
+- 💡 **학습 중인 기술:** GraphQL, Microservices, Kubernetes
 
 ---
 
 ### 🛠️ 기술 스택 & 사용 도구:
 
-- **언어:** ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333)
-- **프레임워크:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
-- **스타일링:** ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff) ![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?logo=styled-components&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
+- **언어:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+- **프레임워크:** ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff)
+- **데이터베이스:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+- **클라우드:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff) ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 - **버전 관리:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-- **도구:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+- **도구:** ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 
 ---
 
@@ -31,21 +32,17 @@
 **💼 재직 기간**
 - 2018년 07월 ~ 현재
 
-**🚀 목적**
-- 소스코드 백업 및 보존
-- 버전 관리
-
 **🌟 주요 프로젝트**
-- HyperWeb 프로젝트
-- WebWave 프로젝트
-- NexusHub 프로젝트
+- VelocityAPI 프로젝트
+- QuantumDB 프로젝트
+- NexGenAuth 프로젝트
 - 고객사 6곳
-  - Plainbyte
-  - Hiber
-  - QWER
-  - Dop
-  - LikeAcook
-  - Metube
+  - ApolloTech
+  - BrightPath
+  - EmeraldTech
+  - LunaEnterprise
+  - MomentumCreative
+  - StellarIT
 
 ---
 
